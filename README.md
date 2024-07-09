@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jcalavala
+- 👋 Hi, I’m Jaya Chand
 - 👀 I’m interested in Data Analytics...
 - 🌱 I’m currently learning Power BI, Informatica and SQL
 - Hot to reach me jayachandalavala@gmail.com
