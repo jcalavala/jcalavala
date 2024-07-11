@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jaya Chand
-- 👀 I’m interested in Data Analytics...
-- 🌱 I’m currently learning Power BI, Informatica and SQL
+- 👀 I’m interested in Data Analytics, Power BI, SQL, Informatica
+- 🌱 I’m currently learning Power BI, Informatica
 - Hot to reach me jayachandalavala@gmail.com
 
 <!---
